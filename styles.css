@@ -9,6 +9,13 @@ html,body
   body{
     background-color: rgb(225, 165, 2);
   }
+  h1{
+    font-size: 4em;
+  }
+  header{
+    text-align: center;
+    font-size: 2em;
+  }
   /*centering the carousel*/
 #carousel{
     margin: auto;
