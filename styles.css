@@ -7,7 +7,7 @@ html,body
     overflow-x: hidden; 
 }
   body{
-    background-color: rgb(202, 129, 34);
+    background-color: rgb(225, 165, 2);
   }
   /*centering the carousel*/
 #carousel{
@@ -27,6 +27,7 @@ html,body
   }
   div.card-body{
     background-color: rgb(239, 176, 95);
+    margin-bottom: 1em;
   }
   div.col-8{
     margin-left: 1em;
