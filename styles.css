@@ -32,13 +32,20 @@ html,body
     margin: auto;
     position: relative;
   }
+  div.card, div.accordion{
+    display: block;
+    box-shadow: -10px 10px black;
+    margin-bottom: 1em;
+  }
   div.card-body{
     background-color: rgb(239, 176, 95);
     margin-bottom: 1em;
+    
   }
   div.col-8{
     margin-left: 1em;
   }
   div.col-2{
     margin-left: 3em;
+    
   }
