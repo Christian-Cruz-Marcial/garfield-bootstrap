@@ -44,6 +44,8 @@ html,body
   div.card-body{
     background-color: rgb(239, 176, 95);
     margin-bottom: 1em;
+    display: block;
+    box-shadow: -1px 0px rgb(239, 176, 95);
     
   }
   div.col-8{
